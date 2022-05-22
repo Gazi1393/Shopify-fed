@@ -7,7 +7,7 @@
 
 ## Available Scripts
 
--In the project directory, you can run:
+-In the project directory, open a command prompt and run:
 
 **`npm start` **
 
