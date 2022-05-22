@@ -1,5 +1,5 @@
 
-### Enter Secret API Key as OPENAI_SECRET
+# Enter Secret API Key as OPENAI_SECRET
 
 ### API URL used = 'https://api.openai.com/v1/engines/text-curie-001/completions'
 
@@ -12,6 +12,9 @@
 
 -Runs the app in the development mode.\
 -Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+
+###Must input API Secret to make API calls
 
 
 
