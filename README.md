@@ -1,5 +1,6 @@
+# Start here
 
-# Enter Secret API Key as OPENAI_SECRET
+-Enter Secret API Key as OPENAI_SECRET
 
 ### API URL used = 'https://api.openai.com/v1/engines/text-curie-001/completions'
 
