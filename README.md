@@ -15,7 +15,7 @@
 -Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-###Must input API Secret to make API calls
+### Must input API Secret to make API calls
 
 
 
